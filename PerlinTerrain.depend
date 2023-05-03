@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1678398994 source:/home/aveey/Documents/Perlin/main.cpp
+	<noise/noise.h>
+	<noise/noiseutils.h>
+	<iostream>
+	<string>
+	<irrlicht/irrlicht.h>
+	<random>
+	<irrlicht/driverChoice.h>
+
+1118160102 /home/aveey/Documents/Perlin/noiseutils/noiseutils.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<noise/noise.h>
+
